@@ -1,19 +1,3 @@
-<div id="header" align="center">
-  <img src="https://i.pinimg.com/originals/7d/6f/e6/7d6fe6070c381b73faac9180d676cebc.gif" width="500"/>
-</div>
-
-<p align="center">
- 
-</p>
-
-<div id="header" align="center">
-  <img src="https://media.discordapp.net/attachments/1102531432192151593/1164912266727129119/cooltext445631129326975.png?ex=6544f017&is=65327b17&hm=6b77a439f2a854ae8fa74a4d3dcf1506e9fd051baf870108b534fee632394fe5&=&width=861&height=94" width="500"/>
-</div>
-
-<p align="center">
- 
-</p>
-
 <p align="center">
 my name is kris/sal/dexter
 </p>
