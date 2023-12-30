@@ -1,18 +1,4 @@
 <p align="center">
-my name is kris/sal/dexter
-</p>
-<p align="center">
-i'm happy you clicked on my github to learn more about me!!!
-</p>
-
-<p align="center">
-however, there's so much i can tell you in this short introduction
-</p>
-<p align="center">
-<b>you should check out the links that i have linked to my profile to learn more,</b> ya know
-</p>
-
-<p align="center">
 ㅤ
 </p>
 
