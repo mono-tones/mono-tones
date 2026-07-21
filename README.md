@@ -1,8 +1,7 @@
 ![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=PUTYOURGITHUBUSERNAMEHERE) 
 
 
-
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=zummbpf8z3oe12u47x7zkcw6p&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+<img src="https://cdn.discordapp.com/attachments/1469747972941152278/1474114621232382148/togif.gif?ex=6a6066f9&is=6a5f1579&hm=58e6fca0f9e58d6c65a157684924ea872d5982c038ffb7e2b34fa440cf234332&" alt="gucio" width="300" height="200">
 
 i am **AGAINST PROSHIPPING/DARKSHIPPING** HOWEVER! i will not harass you for proshipping/darkshipping and i hide/block freely
 
@@ -19,9 +18,6 @@ i will **instantly** block/hide cornballs that try so bad to be "oo edgy and pro
 ![arrow](https://gifcity.carrd.co/assets/images/gallery272/7147add6.gif?v=e3c0bc0f)
 
 PS!!! if you saw me with a yandere simulator skin - **I DO NOT SUPPORT YANDERE DEV!!!!** i am strongly against him and believe he should be arrested for what he has done. i simply like the design of certain characters
-
-
-![GO MY HOUNDS](https://file.garden/ZRfaX7xMiQQHiMQP/GOMYHOUNDS.png)
 
 <details>
 <summary>GO MY HOUNDS</summary>
